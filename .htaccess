@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteBase /MEHDAOUI
+RewriteRule (.*)  webroot/$1 [L]
